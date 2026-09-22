@@ -1,0 +1,7 @@
+name: MyAntiBot
+main: MyAntiBot\Main
+version: 1.0.0
+api: 5.0.0
+author: Ilia Sharifi
+description: Simple reconnect-based AntiBot system for PocketMine-MP
+website: https://github.com/Iliasharifi2015
